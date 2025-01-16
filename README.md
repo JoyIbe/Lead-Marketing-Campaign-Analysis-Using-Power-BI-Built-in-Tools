@@ -108,8 +108,6 @@ Retention stage accounts for 81.12K leads, while Conversions represent 53.89K le
 
 - CPL is slightly lower for Organic campaigns, making it more cost-effective.
 
-
-
 ## Recommendations:
 
 - Focus marketing efforts on high-performing seasons (Winter and Summer) and days (Friday and early weekdays) to maximize lead generation and revenue.
@@ -125,6 +123,8 @@ Retention stage accounts for 81.12K leads, while Conversions represent 53.89K le
 - Focus marketing efforts on Winter and late-year months like December while optimizing campaigns for Spring and Fall to improve overall balance.
 
 - Invest in nurturing campaigns (emails, personalized offers) to move leads from sign-up to retention and conversion stages. Enhance retention strategies to ensure existing customers remain engaged.
+  
+## Link to Viz: [Power BI](https://app.powerbi.com/reportEmbed?reportId=89cdd9f8-f0c7-40c5-9b09-363220ab07e1&autoAuth=true&ctid=0801c8b7-f6a9-44a2-8891-282fd58fab33)
 
 ## Conclusion:
 This analysis highlights a well-rounded campaign with strong lead generation and revenue performance. The analysis reveals opportunities to optimize conversion rates, touchpoint experiences, and seasonal/temporal targeting. By implementing these recommendations, the marketing team can capitalize on existing strengths and address areas of potential improvement, ensuring campaign efficiency and further drive ROI growth.
