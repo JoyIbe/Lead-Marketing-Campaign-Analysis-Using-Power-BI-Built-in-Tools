@@ -33,13 +33,13 @@ Power BI: To build the interactive dashboard.
 
 Data Cleaning: This process of data cleaning carried out in this project includes:
  
-- handling missing numeric values, 
+- Handling missing numeric values, 
 
 - Merging first and last name columns together and trimming off unwanted spaces,
 
 - Handling inconsistencies such as incorrect spellings,
 
-- Grouping age column into intervals of 10,
+- Grouping age column into intervals,
 
 - Lastly, standardizing specific data fields.
 
