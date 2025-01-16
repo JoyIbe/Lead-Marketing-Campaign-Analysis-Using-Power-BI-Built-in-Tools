@@ -1,4 +1,4 @@
-<img width="547" alt="Lead Dash 2" src="https://github.com/user-attachments/assets/8f8dc363-20ac-4730-adfa-7fa297698f4a" /># Lead-Marketing-Campaign-Analysis-Using-Power-BI-Built-in-Tools
+# Lead-Marketing-Campaign-Analysis-Using-Power-BI-Built-in-Tools
 
 ## Table of Contents
 
