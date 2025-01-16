@@ -13,6 +13,7 @@
 ## Objective:
 
 The primary objective is to understand the effectiveness of lead generation efforts. Lead marketing campaigns focus on capturing and nurturing those leads to convert them into paying customers, increase brand awareness, and drive traffic to websites or landing pages.
+Meanwhile, the dataset contained 15 Columns and 270,154 rows of data.
 
 ## Problem Statement:
 
