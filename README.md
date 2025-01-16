@@ -47,6 +47,8 @@ Data Processing: With Power Bi's Dax functionalities, I created calculated measu
 
 Data Modelling: Modelling this data allows for multiple tables with lesser column information to speed up processing time, reduce redundancy and increase efficiency.
 
+<img width="885" alt="Lead Modeling" src="https://github.com/user-attachments/assets/bf283083-7851-433a-b568-2ac203f336c4" />
+
 Data Visualization: Built a two page interactive dashboards to properly communicate findings that will foster opportunities to optimize seasonal campaigns, better target specific demographics, and improve lead generation.
 
 
