@@ -45,12 +45,11 @@ Data Cleaning: This process of data cleaning carried out in this project include
 
 Data Processing: With Power Bi's Dax functionalities, I created calculated measures to show valuable metrics, customized and design visuals to aid clarity in understanding trends.
 
-Data Modelling: Modelling this data allows for multiple tables with lesser column information to speed up processing time, reduce redundancy and increase efficiency.
+Data Modeling: Modeling this data allows for multiple tables with lesser column information to speed up processing time, reduce redundancy and increase efficiency.
 
 <img width="885" alt="Lead Modeling" src="https://github.com/user-attachments/assets/bf283083-7851-433a-b568-2ac203f336c4" />
 
 Data Visualization: Built a two page interactive dashboards to properly communicate findings that will foster opportunities to optimize seasonal campaigns, better target specific demographics, and improve lead generation.
-
 
 ## Analysis Findings:
 
@@ -80,8 +79,8 @@ This suggests both platforms are equally crucial for campaign success and should
 
 -The Quarterly Touchpoint Trend indicates that Sign-Up Touchpoints slightly exceed Purchase Touchpoints in all quarters.
 
-
 ### Conversion Rate
+
 <img width="547" alt="Lead Dash 2" src="https://github.com/user-attachments/assets/6b8bac72-5e21-413c-b10b-51f9683dfc15" />
 
 ### Key Insights
