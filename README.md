@@ -78,7 +78,7 @@ Data Visualization: Built a two page interactive dashboards to properly communic
 - Instagram and TikTok each contributed approximately 50% of the leads.
 This suggests both platforms are equally crucial for campaign success and should continue to be focal points for marketing efforts.
 
--The Quarterly Touchpoint Trend indicates that Sign-Up Touchpoints slightly exceed Purchase Touchpoints in all quarters.
+- The Quarterly Touchpoint Trend indicates that Sign-Up Touchpoints slightly exceed Purchase Touchpoints in all quarters.
 
 ### Conversion Rate
 
